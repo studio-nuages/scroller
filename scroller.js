@@ -3,6 +3,8 @@
  * ScrollerJS v1.0.0
  * ===========================================================
  * Copyright 2017 Studio Nuages.
+ * 
+ * https://github.com/studio-nuages/scroller
  *
  * License: MIT
  *
