@@ -6,6 +6,7 @@ Pure JS Page scroll animation.
 
 ## Usage
 ```html
+<script src="scroller-1.0.0.js"></script>
 <script>
     document.addEventListener('DOMContentLoaded', function(){
         var scroller = new Scroller(".scroller", {
